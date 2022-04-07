@@ -1,1 +1,2 @@
-# ReconfigurableRobot
+# Reconfigurable Robot Hardware
+
