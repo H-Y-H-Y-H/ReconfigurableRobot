@@ -8,6 +8,5 @@ STEP file can be downloaded from this [link](https://drive.google.com/file/d/1HG
 
 ## Dimension: 
 
-<img width="1149" alt="dimension" src="https://user-images.githubusercontent.com/48082207/165997524-b9fdbf18-f3a4-43d7-a45f-b61215b81d11.png">
-
+![Assem1](https://user-images.githubusercontent.com/48082207/165998089-0dd4520d-ce5a-48c0-aeed-9d6761f318b3.PNG)
 
